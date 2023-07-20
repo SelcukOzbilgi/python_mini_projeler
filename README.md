@@ -1,34 +1,34 @@
-# Python Mini Projeler
+# Python Mini Projector
 
 
-> 
+>
 
-Boş zamanlarımda hobi olarak eğitim serisi tarzında python da yazdığım mini mini projeler bunlar :)
+These are the mini mini projects I wrote in python to run the training series as a hobby in my spare time :)
 
-Bütün proje dosyalarına gerekli açıklamaları elimden geldigince yazdım.
+Annotation requirements for all project files appear in the future.
 
-Çok az programlama bilgisi olan biri için başlangıç/orta/ileri seviyelerde yararlı olabileceğini düşündüğüm uygulamaları yazdım.
+For someone with little programming knowledge, download applications that can benefit from the impact on beginner/intermediate/advanced.
 
-**NOT** 
-> Sisteminizde Python3 kurulu olmasi lazim
-> 
-> Kodları PyCharm Editorünü kullanarak yazdım. 
-> 
-> Kodları Windowsta hiç denemedim ne sonuçlar vereceğini bilmiyorum, bi hata varsa pull request acin
+**NEGATIVE**
+> Scheme to have Python3 installed on your system
+>
+> Upload Codes using PyCharm Editor.
+>
+> I have never tried the codes on Windows, what results will be Unknown, if there is an error, open a pull request
 ----
 
-### Kurulum
+### Setup
 
-Oncelikle bir terminal acip repoyu indirin
+First open a terminal and upload the repo
 
-```bash
+`` bash
 git clone https://github.com/ozcanyarimdunya/python_mini_projeler.git python3_projeler
-cd python3_projeler/
+cd python3_projects/
 ```
 
-Pesinden isterleri kurunuz
+Please set up the requests
 
-```bash
-pip install --user poetry
-poetry install
+`` bash
+pip install -- user poem
+poetry setup
 ```
